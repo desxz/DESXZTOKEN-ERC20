@@ -46,6 +46,6 @@ Ben de bu projede bu kaynaktan yararlandım.
 
 * allowance(): Bir kontrata tokenlarınızı yönetmesi için izin verdiğinizde, kontratın çekebileceği ne kadar tokenın kaldığını kontrol etmek isteyebilirsiniz. Örneğin, aboneliğiniz onaylanmış yirmi tokenınızın on ikisini kullandıysa allowance fonksiyonunu çağırdığınızda yanıt olarak sekiz alırsınız.
 
-##DESXZTOKEN Nerelerde Kullanılabilir?
+## DESXZTOKEN Nerelerde Kullanılabilir?
 
 Oyun içi para birimi olarak kullanılabilir, kişiler arası küçük anlaşmalarda kullanılabilir temsili olarak. Sadakat puanı programlarında, dijital koleksiyonluklar olarak ve hatta sanat eserlerini ve mülkiyet haklarını temsil etmek için kullanılabilir.
